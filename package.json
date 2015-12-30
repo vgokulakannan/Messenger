@@ -1,0 +1,17 @@
+{
+	"name": "GQ-Messenger",
+	"version":1.0,
+	"main": "./html/peer.html",
+	"window": {
+    
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200
+    
+  }
+
+}
